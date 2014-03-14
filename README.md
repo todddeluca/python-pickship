@@ -13,4 +13,8 @@ embedding the Item object itself in the LineItem.  I think I might prefer the
 latter approach, which I used in the Java implementation.
 
 
+## Usage
+
+    python3 pickship.py data/pick-ship/inventory.txt  data/pick-ship/order3.txt
+
 
